@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="procurement-ws:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="procurement-ws.war">
+      <element id="artifact" artifact-name="procurement-ws:war exploded" />
+    </root>
+  </artifact>
+</component>

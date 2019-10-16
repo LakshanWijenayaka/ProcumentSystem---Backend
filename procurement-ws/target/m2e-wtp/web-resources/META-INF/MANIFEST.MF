@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: procurement-ws
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Pasan Kamburugamuwa
+Implementation-Vendor-Id: com.csse
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/procurement-ws
+Created-By: Maven Integration for Eclipse
+
